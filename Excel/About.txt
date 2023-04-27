@@ -1,0 +1,5 @@
+This dataset was sourced from Kaggle.com. 
+
+This is just a brief explanation of what has been implemented in this Data Analysis via Excel Project. I began by cleaning and preparing the Bike Buyers 1000 dataset for exploration. I found no duplicate records or missing values, then began standardizing data formats to ensure the accuracy of the data. Once the data was prepared, I used Excel's pivot tables and charts to create insightful summaries of the data, such as the most common customer segments, the average income of customers. I leveraged Excel's built-in charting features to create visually appealing and informative charts, such as bar charts, pie charts, and line charts. 
+
+Using the insights gained from the pivot tables and charts, I then created an interactive dashboard that effectively communicated the findings from the Bike Buyers 1000 dataset. The dashboard includes a variety of charts and tables and filters that allow for easy exploration and understanding of the data. This way, I was able to effectively analyze and communicate the insights from the Bike Buyers 1000 dataset.
