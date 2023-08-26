@@ -1,9 +1,0 @@
-This Dataset was sourced from Tableau. 
-
-I am trying to explore and analyse the dataset via SQL using Joins, CTEs, Windows functions, aggragation techniques, etc.
- 
-The functions and techniques used such as SUM, AVG, DATEDIFF, CASE, and Window Functions (such as AVG) are considered advanced SQL topics because they allow analysts to manipulate and aggregate data in sophisticated ways. 
-
-These functions enable analysts to calculate rolling averages, group data by specific time periods, apply conditions to filter or manipulate data, and perform complex calculations over a specified window of data.
-
-By using these advanced SQL functions, I gained deeper insights into trends and patterns in the data in various areas such as sales, profi, shipment modes, etc. 
