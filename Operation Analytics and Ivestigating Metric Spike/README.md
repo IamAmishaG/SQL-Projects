@@ -18,6 +18,6 @@ Operational Analytics is a crucial process that involves analyzing a company's e
 5. Subquery and Percentage Calculation: Utilizing subqueries to calculate percentages for email engagement metrics.
 
 
-** Conclusion
+## Conclusion
 
 This project provides hands-on experience in performing operational analytics using SQL. By addressing diverse tasks such as user engagement analysis, growth measurement, and retention analysis, wd can gain insights into enhancing a company's operations and understanding key metric changes. 
