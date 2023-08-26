@@ -1,61 +1,9 @@
 # SQL PROJECTS
-This is a file containing individual SQL projects. 
-<!--
-<h1>JWipe - Disk Sanitization</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+This repository provides a sample of data analysis work I completed using SQL and includes the following:
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+Project Name  | Description   |  Topic
+------------- | ------------- | ------------------
+[Analyze International Debt Statistics](https://github.com/IamAmishaG/SQL-Projects/tree/main/Analyze%20Internation%20Debt%20Statistics)  | Wrote SQL queries using MySQL Workbench to answer interesting questions about international debt data from The World Bank  | Data manipulation, Data exploration
+[Nashville Housing - Data Cleaning](https://github.com/IamAmishaG/SQL-Projects/tree/main/Data%20Cleaning)  | Developed T-SQL queries to clean large datasets, and standardized data formats | Data cleaning, Data preparing, Data manipulation
+[Operation Analytics and Investigating Metric Spike](https://github.com/IamAmishaG/SQL-Projects/tree/main/Operation%20Analytics%20and%20Ivestigating%20Metric%20Spike)  | Understood operation analytics using advanced SQL queries to understand key metrics  | Data exploration
